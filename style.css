@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    padding: 5px;
+    text-align: center;
+    font-style: italic;
+    color: red;
+    text-decoration: underline;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+img{
+    margin: left;
+    margin: 8px;
+    width:  80%;
+    height: 180px;
+}
+
+h1{
+    text-align: right;
+    padding: 1%;
+}
+
+#CONTATO{
+    text-align: right;
+    
+
+}
+ 
+#ul{
+    text-align: right;
+    list-style-type: none;
+    padding: 1px;
+}
+
+#FORMACAO{
+    text-align: right;
+
+}
+
+.destaque-vermelho1{
+    color: red;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: end;
+}
+
+#p1{
+    text-align: right;
+    padding: 2px;
+}
+
+.destaque-vermelho{
+    color: red;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: larger;
+    padding: 2px;
+}
+
+#p2{
+    text-align: left;
+    padding: 2px;
+    font-weight: bolder;
+}
+
+
+.job{
+    margin: 8px;
+    width:  30%;
+    height: 150px;
+    background-color: #cccccc;
+    display: inline-block;
+}
+
+header,footer{
+    padding: 20px;
+    width: 100%;
+    clear: both;
+}
+
+footer{
+    text-align: right;
+}
+
+aside{
+    padding: 18px;
+    float: left;
+    width: 20% ;
+}
+
+main{
+    float: left;
+    width: 75%;
+}
